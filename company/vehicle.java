@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-//all costs in ntd :)
+//making program for a vehicle repair workshop and making the input menu too! all costs in ntd
 
 public class vehicle {
     String ownername;
